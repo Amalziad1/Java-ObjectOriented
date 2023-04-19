@@ -1,0 +1,2 @@
+Customer's id;name;address;mobile
+123; zainab; al_jeeb;0597636
