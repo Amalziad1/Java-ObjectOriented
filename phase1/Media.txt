@@ -1,0 +1,6 @@
+game; genshin impact;2;2.2;true
+movie; castl in the sky;3;HR;true
+album;its you;4;Ali ghati;moonlight&its you&what if i told you that i love you;true
+game;clash of clans;2;3;true
+movie;my neighbor totoro;AC;true
+movie;howls moving castle;0;HR;false
